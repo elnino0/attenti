@@ -1,0 +1,11 @@
+hi there
+this is a design explain document
+so first we have ElementWrapper and DriverManager
+for some basic uses of selenium methods and manage the sessions
+element wrapper is for use selenium element so the user will have macro methods
+driver manager is for sync session now when open a new one and when use the current
+
+pages is also an element so they all extends ElementWrapper and for find a child elements in more easy way and not long xpaths
+also contain there elements and find them in there Dom
+
+ElementLocator is it just for any other ways to find elements like java scripts that we dont use here
